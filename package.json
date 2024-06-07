@@ -1,8 +1,19 @@
 {
   "name": "eslint-config-oxylint",
-  "version": "2.2.2",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "author": {
+    "name": "Pedro Henrique",
+    "email": "pedro.henrike2812@gmail.com"
+  },
+  "description": "ESLint configuration used by Oxygeni.DIT.",
+  "keywords": [
+    "eslint", "eslint-config"
+  ],
+  "repository": {
+    "url": "git@github.com:eu-pedro/eslint-config-oxylint.git"
+  },
   "peerDependencies": {
     "eslint": "^8.0.0",
     "typescript": ">=5"
